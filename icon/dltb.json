@@ -4,15 +4,19 @@
     "icons": [
         {
             "name": "Telegram",
-            "url": "https://raw.githubusercontent.com/douliu6767/qx/refs/heads/main/icon/Telegram.png"
+            "url": "https://raw.githubusercontent.com/douliu6767/qx/refs/heads/main/icon/telegram.png"
         },
         {
             "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/douliu6767/qx/refs/heads/main/icon/GitHub.png"
+            "url": "https://raw.githubusercontent.com/douliu6767/qx/refs/heads/main/icon/github.png"
         },
         {
-            "name": "Google",
+            "name": "Google1",
             "url": "https://raw.githubusercontent.com/douliu6767/qx/refs/heads/main/icon/Google.png"
+        },
+        {
+            "name": "Google2",
+            "url": "https://raw.githubusercontent.com/douliu6767/qx/refs/heads/main/icon/google2.png"
         },
         {
             "name": "网易云音乐",
@@ -20,7 +24,7 @@
         },
         {
             "name": "TikTok",
-            "url": "https://raw.githubusercontent.com/douliu6767/qx/refs/heads/main/icon/TikTok.png"
+            "url": "https://raw.githubusercontent.com/douliu6767/qx/refs/heads/main/icon/tiktok.png"
         }
     ]
 }
